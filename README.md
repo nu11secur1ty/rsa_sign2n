@@ -1,9 +1,12 @@
 # rsa_sign2n
 
-## Docker
+## Docker Build and usage
 
-## Build
+- sudo
+
+```bash
 sudo docker build . -t sig2n
+```
 
 ## Run docker
 sudo docker run -it sig2n /bin/bash
